@@ -1,0 +1,78 @@
+@import '../../global.scss';
+
+.skills-details {
+  width: 50%;
+  display: flex;
+  padding-top: 18%;
+  position: absolute;
+  right: 0;
+  flex-direction: column;
+
+  @include mobile {
+    width: 100%;
+    position: relative;
+    padding: 6.15rem;
+  }
+
+  .skills {
+    display: flex;
+
+    @include mobile {
+      width: 95%;
+    }
+    .collumn {
+      flex: 50%;
+    }
+  }
+
+  .work-row {
+    display: flex;
+    margin-top: 5rem;
+    flex-direction: row;
+
+    @include mobile {
+      flex-direction: column;
+    }
+
+    .work-box {
+      background: #2a2a2a;
+      padding: 2rem;
+      margin-right: 5.25rem;
+      font-family: sans-serif;
+
+      @include mobile {
+        margin-bottom: 2rem;
+        max-width: 70%;
+      }
+
+      header {
+        font-family: font-file-82132;
+        font-size: 2.6rem;
+        line-height: 2rem;
+        margin-bottom: 2rem;
+        color: #fff;
+      }
+
+      section {
+        font-size: 1.6rem;
+        color: #ababab;
+        margin-bottom: 1rem;
+      }
+
+      time {
+        display: block;
+        font-size: 1.2rem;
+      }
+
+      footer {
+        font-size: 1.6rem;
+        color: #ababab;
+        line-height: 1.8rem;
+      }
+    }
+  }
+}
+
+a {
+  color: #ffd700;
+}
