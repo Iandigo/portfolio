@@ -89,21 +89,7 @@ const Contact = () => {
             </form>
           </div>
         </div>
-        <div className="info-map">
-          U93/283 Spring St,
-          <br />
-          Melbourne,
-          <br />
-          VIC 3000
-          <br />
-          Australia <br />
-          <br />
-          <span>
-            nguyentienmanh2511
-            <br />
-            @gmail.com
-          </span>
-        </div>
+
         <div className="map-wrap">
           <MapContainer center={[-37.8082261, 144.9713126]} zoom={13}>
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
@@ -111,6 +97,21 @@ const Contact = () => {
               <Popup>Ian lives here, come over for a cup of coffee :)</Popup>
             </Marker>
           </MapContainer>
+          <div className="info-map">
+            U93/283 Spring St,
+            <br />
+            Melbourne,
+            <br />
+            VIC 3000
+            <br />
+            Australia <br />
+            <br />
+            <span>
+              nguyentienmanh2511
+              <br />
+              @gmail.com
+            </span>
+          </div>
         </div>
       </div>
       <Loader type="pacman" />

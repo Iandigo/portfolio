@@ -86,8 +86,8 @@
     float: none;
     margin-top: 100px;
     position: relative;
-    left: 50px;
-    width: 90%;
+    margin-left: 5%;
+    width: 93%;
     height: 50%;
   }
 }
@@ -104,8 +104,8 @@
 .info-map {
   position: absolute;
   background: rgb(0, 0, 0);
-  top: 50px;
-  right: 30%;
+  top: 20px;
+  right: 40%;
   z-index: 999999;
   width: 167px;
   padding: 20px;
@@ -118,13 +118,18 @@
   animation-fill-mode: forwards;
 
   @include mobile {
-    top: 70vh;
-    right: 5%;
-    width: 150px;
+    top: 10px;
+    right: 10px;
+    width: 100px;
+    font-size: 11px;
   }
 
   span {
     font-size: 16px;
+
+    @include mobile {
+      font-size: 11px;
+    }
 
     span {
       color: #ffd700;

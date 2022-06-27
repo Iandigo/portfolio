@@ -1,22 +1,23 @@
 import React from 'react'
 import './index.scss'
+import { NavLink } from 'react-router-dom'
 
 const Menu = () => {
   return (
     <menu className="main-menu">
       <nav className="main-menu-nav">
-        <a className="home-link" href="/">
+        <NavLink className="home-link" to="/">
           Home
-        </a>
-        <a className="about-link" href="/about">
+        </NavLink>
+        <NavLink className="about-link" to="/about">
           About
-        </a>
-        <a className="portfolio-link" href="/portfolio">
+        </NavLink>
+        <NavLink className="portfolio-link" to="/portfolio">
           Works
-        </a>
-        <a className="contact-link" href="/contact">
+        </NavLink>
+        <NavLink className="contact-link" to="/contact">
           Contact
-        </a>
+        </NavLink>
       </nav>
     </menu>
   )
