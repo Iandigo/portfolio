@@ -17,6 +17,12 @@
       "title": "Pig Game",
       "description": "HTML, CSS, JS",
       "url": "https://iandigo.github.io/Pig-Game/"
+    },
+    {
+      "cover": "/portfolio/1/reading-list.png",
+      "title": "Reading List",
+      "description": "React with Hooks",
+      "url": "https://reading-list-ian-nguyen.netlify.app/"
     }
   ]
 }
