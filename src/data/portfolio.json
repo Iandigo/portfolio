@@ -7,22 +7,16 @@
       "url": "https://iandigo.github.io/admin-dashbroad/"
     },
     {
-      "cover": "/portfolio/1/movie.png",
-      "title": "Movie Website",
-      "description": "HTML, CSS, JS",
-      "url": "https://iandigo.github.io/movie-website/"
+      "cover": "/portfolio/1/crypto.png",
+      "title": "Cryto Tracker Website",
+      "description": "React, Material UI",
+      "url": "https://crypto-tracker-app-99.netlify.app/    "
     },
     {
-      "cover": "/portfolio/1/pig-game.png",
-      "title": "Pig Game",
-      "description": "HTML, CSS, JS",
-      "url": "https://iandigo.github.io/Pig-Game/"
-    },
-    {
-      "cover": "/portfolio/1/reading-list.png",
-      "title": "Reading List",
-      "description": "React with Hooks",
-      "url": "https://reading-list-ian-nguyen.netlify.app/"
+      "cover": "/portfolio/1/gallery.png",
+      "title": "Gallery Website",
+      "description": "React, Material UI",
+      "url": "https://gallery-react-app-ian.netlify.app/"
     }
   ]
 }

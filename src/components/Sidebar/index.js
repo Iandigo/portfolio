@@ -24,7 +24,7 @@ const Sidebar = () => {
   return (
     <>
       <div className="nav-bar">
-        {showLinks ? <Menu /> : null}
+        {showLinks ? <Menu onToggle={toggleLinks} /> : null}
         <button className="nav-toggle" onClick={toggleLinks}>
           <FaBars />
         </button>

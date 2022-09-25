@@ -2,10 +2,10 @@ import React from 'react'
 import './index.scss'
 import { NavLink } from 'react-router-dom'
 
-const Menu = () => {
+const Menu = ({ onToggle }) => {
   return (
     <menu className="main-menu">
-      <nav className="main-menu-nav">
+      <nav className="main-menu-nav" onClick={onToggle}>
         <NavLink className="home-link" to="/">
           Home
         </NavLink>
