@@ -23,6 +23,12 @@
       "title": "Instrument-clone Website",
       "description": "React, TypeScript, CSS",
       "url": "https://instrument-clone-09.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/1/news.png",
+      "title": "News generator Website",
+      "description": "React, TypeScript, CSS",
+      "url": "https://github.com/Iandigo/news-generator"
     }
   ]
 }
