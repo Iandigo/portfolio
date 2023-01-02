@@ -1,10 +1,10 @@
 {
   "portfolio": [
     {
-      "cover": "/portfolio/1/dashbroad.png",
-      "title": "Static Dashbroad",
-      "description": "HTML, CSS",
-      "url": "https://iandigo.github.io/admin-dashbroad/"
+      "cover": "/portfolio/1/mapty.png",
+      "title": "Mapty",
+      "description": "HTML, CSS, JavaScript",
+      "url": "https://iandigo.github.io/mapty/"
     },
     {
       "cover": "/portfolio/1/crypto.png",
@@ -23,12 +23,6 @@
       "title": "Instrument-clone Website",
       "description": "React, TypeScript, CSS",
       "url": "https://instrument-clone-09.netlify.app/"
-    },
-    {
-      "cover": "/portfolio/1/news.png",
-      "title": "News generator Website",
-      "description": "React, TypeScript, CSS",
-      "url": "https://github.com/Iandigo/news-generator"
     }
   ]
 }
