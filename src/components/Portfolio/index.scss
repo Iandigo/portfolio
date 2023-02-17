@@ -31,6 +31,9 @@
 
     @include mobile {
       flex-direction: column;
+      flex-wrap: nowrap;
+      align-items: center;
+      padding-bottom: 70px;
     }
 
     .image-box {

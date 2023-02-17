@@ -24,10 +24,6 @@
     right: 20px;
     display: none;
 
-    &::hover {
-      transform: rotate(90deg);
-    }
-
     @include mobile {
       display: block;
       max-width: 100%;
