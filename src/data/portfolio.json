@@ -19,12 +19,6 @@
       "url": "https://gallery-react-app-ian.netlify.app/"
     },
     {
-      "cover": "/portfolio/1/instrument.png",
-      "title": "Instrument-clone Website",
-      "description": "React, TypeScript, CSS",
-      "url": "https://instrument-clone-09.netlify.app/"
-    },
-    {
       "cover": "/portfolio/1/snapshot.png",
       "title": "Snapshot Website",
       "description": "React, CSS - Fetching API from Pexels",
