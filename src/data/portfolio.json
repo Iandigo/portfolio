@@ -23,6 +23,12 @@
       "title": "Snapshot Website",
       "description": "React, CSS - Fetching API from Pexels",
       "url": "https://snapshot-iannguyen.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/1/shopping-cart.png",
+      "title": "Shopping Cart",
+      "description": "React, CSS, Redux Toolkit",
+      "url": "https://shopping-cart-69.netlify.app/"
     }
   ]
 }
