@@ -29,6 +29,12 @@
       "title": "Shopping Cart",
       "description": "React, CSS, Redux Toolkit",
       "url": "https://shopping-cart-69.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/1/mern.png",
+      "title": "Sociopedia",
+      "description": "MERN stack",
+      "url": "https://social-media-app-99.netlify.app/"
     }
   ]
 }
