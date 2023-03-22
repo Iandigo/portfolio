@@ -35,6 +35,12 @@
       "title": "Sociopedia",
       "description": "MERN stack",
       "url": "https://social-media-app-99.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/1/gym.png",
+      "title": "Evogym",
+      "description": "TypeScript, Taidwind CSS",
+      "url": "https://evogym-ian-nguyen.netlify.app/"
     }
   ]
 }
