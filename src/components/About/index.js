@@ -64,13 +64,19 @@ const About = () => {
                 <strong>HTML</strong>
               </p>
               <p>
-                <strong>CSS</strong>
+                <strong>Tailwind CSS</strong>
               </p>
               <p>
                 <strong>JS</strong>
               </p>
               <p>
                 <strong>React</strong>
+              </p>
+              <p>
+                <strong>TypeScript</strong>
+              </p>
+              <p>
+                <strong>NodeJS</strong>
               </p>
             </div>
             <div className="collumn">
@@ -82,6 +88,12 @@ const About = () => {
               </p>
               <p>
                 <strong>Adobe Premiere</strong>
+              </p>
+              <p>
+                <strong>Git</strong>
+              </p>
+              <p>
+                <strong>Bitbucket</strong>
               </p>
             </div>
           </div>
@@ -111,6 +123,20 @@ const About = () => {
                 Assisted in upgrading the company's website by adding a zoom
                 in/out feature for a canvas and designing a dashboard with chart
                 pages.
+              </footer>
+            </div>
+            <div className="work-box">
+              <header>Fullstack Developer</header>
+              <section>
+                Jung Talents
+                <time>April 2021 - Present</time>
+              </section>
+              <footer>
+                {' '}
+                Developed and deployed full-stack commercial web applications
+                using modern technologies such as ReactJS, and Node.JS,
+                showcasing proficiency in both front-end and back-end
+                development.
               </footer>
             </div>
           </div>
