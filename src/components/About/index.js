@@ -67,7 +67,7 @@ const About = () => {
                 <strong>Tailwind CSS</strong>
               </p>
               <p>
-                <strong>JS</strong>
+                <strong>JavaScript</strong>
               </p>
               <p>
                 <strong>React</strong>
@@ -78,8 +78,17 @@ const About = () => {
               <p>
                 <strong>NodeJS</strong>
               </p>
+              <p>
+                <strong>.NET</strong>
+              </p>
             </div>
             <div className="collumn">
+              <p>
+                <strong>SQL</strong>
+              </p>
+              <p>
+                <strong>MongoDB</strong>
+              </p>
               <p>
                 <strong>Adobe XD</strong>
               </p>
